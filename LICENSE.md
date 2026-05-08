@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with rare Plugin for Alfred for macOS - cloud backup and tags, the #1 plugin. Includes cloud backup and tags for a smoother experience.
 
 
 
